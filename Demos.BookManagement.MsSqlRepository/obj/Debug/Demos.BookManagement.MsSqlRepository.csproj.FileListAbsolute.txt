@@ -1,0 +1,14 @@
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Demos.BookManagement.MsSqlRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Demos.BookManagement.MsSqlRepository.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Demos.BookManagement.Domain.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Demos.BookManagement.IRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Simple.Data.Ado.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Simple.Data.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Simple.Data.SqlServer.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Demos.BookManagement.Domain.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\bin\Debug\Demos.BookManagement.IRepository.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\obj\Debug\Demos.BookManagement.MsSqlRepository.csproj.AssemblyReference.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\obj\Debug\Demos.BookManagement.MsSqlRepository.csproj.CoreCompileInputs.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\obj\Debug\Demos.Bo.15E10AFE.Up2Date
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\obj\Debug\Demos.BookManagement.MsSqlRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.MsSqlRepository\obj\Debug\Demos.BookManagement.MsSqlRepository.pdb

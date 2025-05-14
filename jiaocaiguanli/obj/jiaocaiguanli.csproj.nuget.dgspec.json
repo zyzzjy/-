@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\jiaocaiguanli.csproj": {}
+  },
+  "projects": {
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj",
+        "projectName": "Demos.BookManagement.Domain",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj",
+        "projectName": "Demos.BookManagement.IRepository",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj",
+        "projectName": "Demos.BookManagement.LiteDbRepository.Tests",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj",
+        "projectName": "Demos.BookManagement.LiteDbRepository",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj",
+        "projectName": "Demos.BookManagement.MsSqlRepository.Tests",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj",
+        "projectName": "Demos.BookManagement.MsSqlRepository",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj",
+        "projectName": "Demos.BookManagement.Winforms",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\jiaocaiguanli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\jiaocaiguanli.csproj",
+        "projectName": "jiaocaiguanli",
+        "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\jiaocaiguanli.csproj",
+        "packagesPath": "C:\\Users\\zyz20\\.nuget\\packages\\",
+        "outputPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zyz20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj"
+              },
+              "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj": {
+                "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

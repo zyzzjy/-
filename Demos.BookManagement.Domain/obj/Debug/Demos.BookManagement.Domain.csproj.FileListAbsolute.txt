@@ -1,0 +1,6 @@
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.Domain\bin\Debug\Demos.BookManagement.Domain.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.Domain\bin\Debug\Demos.BookManagement.Domain.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.Domain\obj\Debug\Demos.BookManagement.Domain.csproj.AssemblyReference.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.Domain\obj\Debug\Demos.BookManagement.Domain.csproj.CoreCompileInputs.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.Domain\obj\Debug\Demos.BookManagement.Domain.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.Domain\obj\Debug\Demos.BookManagement.Domain.pdb

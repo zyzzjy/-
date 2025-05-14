@@ -1,0 +1,13 @@
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\Demos.BookManagement.LiteDbRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\Demos.BookManagement.LiteDbRepository.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\Demos.BookManagement.Domain.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\Demos.BookManagement.IRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\LiteDB.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\Demos.BookManagement.Domain.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\Demos.BookManagement.IRepository.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\bin\Debug\LiteDB.xml
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\obj\Debug\Demos.BookManagement.LiteDbRepository.csproj.AssemblyReference.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\obj\Debug\Demos.BookManagement.LiteDbRepository.csproj.CoreCompileInputs.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\obj\Debug\Demos.Bo.31770275.Up2Date
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\obj\Debug\Demos.BookManagement.LiteDbRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.LiteDbRepository\obj\Debug\Demos.BookManagement.LiteDbRepository.pdb

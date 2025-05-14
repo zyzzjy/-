@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demos.BookManagement.Domain\Demos.BookManagement.Domain.csproj" />
+    <ProjectReference Include="..\Demos.BookManagement.IRepository\Demos.BookManagement.IRepository.csproj" />
+    <ProjectReference Include="..\Demos.BookManagement.LiteDbRepository.Tests\Demos.BookManagement.LiteDbRepository.Tests.csproj" />
+    <ProjectReference Include="..\Demos.BookManagement.LiteDbRepository\Demos.BookManagement.LiteDbRepository.csproj" />
+    <ProjectReference Include="..\Demos.BookManagement.MsSqlRepository.Tests\Demos.BookManagement.MsSqlRepository.Tests.csproj" />
+    <ProjectReference Include="..\Demos.BookManagement.MsSqlRepository\Demos.BookManagement.MsSqlRepository.csproj" />
+    <ProjectReference Include="..\Demos.BookManagement.Winforms\Demos.BookManagement.Winforms.csproj" />
+  </ItemGroup>
+
+</Project>

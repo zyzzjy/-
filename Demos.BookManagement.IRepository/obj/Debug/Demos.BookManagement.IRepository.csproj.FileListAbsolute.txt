@@ -1,0 +1,9 @@
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\bin\Debug\Demos.BookManagement.IRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\bin\Debug\Demos.BookManagement.IRepository.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\bin\Debug\Demos.BookManagement.Domain.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\bin\Debug\Demos.BookManagement.Domain.pdb
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\obj\Debug\Demos.BookManagement.IRepository.csproj.AssemblyReference.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\obj\Debug\Demos.BookManagement.IRepository.csproj.CoreCompileInputs.cache
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\obj\Debug\Demos.Bo.64C77C6C.Up2Date
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\obj\Debug\Demos.BookManagement.IRepository.dll
+E:\迅雷下载\Demos.BookManagement(1)\Demos.BookManagement.IRepository\obj\Debug\Demos.BookManagement.IRepository.pdb

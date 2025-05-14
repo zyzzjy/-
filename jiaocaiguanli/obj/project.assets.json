@@ -1,0 +1,237 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Demos.BookManagement.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.Domain.dll": {}
+        }
+      },
+      "Demos.BookManagement.IRepository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Demos.BookManagement.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.IRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.IRepository.dll": {}
+        }
+      },
+      "Demos.BookManagement.LiteDbRepository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Demos.BookManagement.Domain": "1.0.0",
+          "Demos.BookManagement.IRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.LiteDbRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.LiteDbRepository.dll": {}
+        }
+      },
+      "Demos.BookManagement.LiteDbRepository.Tests/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Demos.BookManagement.Domain": "1.0.0",
+          "Demos.BookManagement.LiteDbRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.LiteDbRepository.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.LiteDbRepository.Tests.dll": {}
+        }
+      },
+      "Demos.BookManagement.MsSqlRepository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Demos.BookManagement.Domain": "1.0.0",
+          "Demos.BookManagement.IRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.MsSqlRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.MsSqlRepository.dll": {}
+        }
+      },
+      "Demos.BookManagement.MsSqlRepository.Tests/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Demos.BookManagement.Domain": "1.0.0",
+          "Demos.BookManagement.MsSqlRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.MsSqlRepository.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.MsSqlRepository.Tests.dll": {}
+        }
+      },
+      "Demos.BookManagement.Winforms/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Demos.BookManagement.Domain": "1.0.0",
+          "Demos.BookManagement.IRepository": "1.0.0",
+          "Demos.BookManagement.LiteDbRepository": "1.0.0",
+          "Demos.BookManagement.MsSqlRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demos.BookManagement.Winforms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demos.BookManagement.Winforms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demos.BookManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.Domain/Demos.BookManagement.Domain.csproj",
+      "msbuildProject": "../Demos.BookManagement.Domain/Demos.BookManagement.Domain.csproj"
+    },
+    "Demos.BookManagement.IRepository/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.IRepository/Demos.BookManagement.IRepository.csproj",
+      "msbuildProject": "../Demos.BookManagement.IRepository/Demos.BookManagement.IRepository.csproj"
+    },
+    "Demos.BookManagement.LiteDbRepository/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.LiteDbRepository/Demos.BookManagement.LiteDbRepository.csproj",
+      "msbuildProject": "../Demos.BookManagement.LiteDbRepository/Demos.BookManagement.LiteDbRepository.csproj"
+    },
+    "Demos.BookManagement.LiteDbRepository.Tests/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.LiteDbRepository.Tests/Demos.BookManagement.LiteDbRepository.Tests.csproj",
+      "msbuildProject": "../Demos.BookManagement.LiteDbRepository.Tests/Demos.BookManagement.LiteDbRepository.Tests.csproj"
+    },
+    "Demos.BookManagement.MsSqlRepository/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.MsSqlRepository/Demos.BookManagement.MsSqlRepository.csproj",
+      "msbuildProject": "../Demos.BookManagement.MsSqlRepository/Demos.BookManagement.MsSqlRepository.csproj"
+    },
+    "Demos.BookManagement.MsSqlRepository.Tests/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.MsSqlRepository.Tests/Demos.BookManagement.MsSqlRepository.Tests.csproj",
+      "msbuildProject": "../Demos.BookManagement.MsSqlRepository.Tests/Demos.BookManagement.MsSqlRepository.Tests.csproj"
+    },
+    "Demos.BookManagement.Winforms/1.0.0": {
+      "type": "project",
+      "path": "../Demos.BookManagement.Winforms/Demos.BookManagement.Winforms.csproj",
+      "msbuildProject": "../Demos.BookManagement.Winforms/Demos.BookManagement.Winforms.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Demos.BookManagement.Domain >= 1.0.0",
+      "Demos.BookManagement.IRepository >= 1.0.0",
+      "Demos.BookManagement.LiteDbRepository >= 1.0.0",
+      "Demos.BookManagement.LiteDbRepository.Tests >= 1.0.0",
+      "Demos.BookManagement.MsSqlRepository >= 1.0.0",
+      "Demos.BookManagement.MsSqlRepository.Tests >= 1.0.0",
+      "Demos.BookManagement.Winforms >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zyz20\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\jiaocaiguanli.csproj",
+      "projectName": "jiaocaiguanli",
+      "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\jiaocaiguanli.csproj",
+      "packagesPath": "C:\\Users\\zyz20\\.nuget\\packages\\",
+      "outputPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\jiaocaiguanli\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\zyz20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Domain\\Demos.BookManagement.Domain.csproj"
+            },
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.IRepository\\Demos.BookManagement.IRepository.csproj"
+            },
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository.Tests\\Demos.BookManagement.LiteDbRepository.Tests.csproj"
+            },
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.LiteDbRepository\\Demos.BookManagement.LiteDbRepository.csproj"
+            },
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository.Tests\\Demos.BookManagement.MsSqlRepository.Tests.csproj"
+            },
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.MsSqlRepository\\Demos.BookManagement.MsSqlRepository.csproj"
+            },
+            "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj": {
+              "projectPath": "E:\\迅雷下载\\Demos.BookManagement(1)\\Demos.BookManagement.Winforms\\Demos.BookManagement.Winforms.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
